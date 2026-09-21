@@ -88,5 +88,5 @@ Sales are growing, but profit is not keeping pace. Leadership needs to know whic
 - Dashboard design and business storytelling
 ## 👤 Author
  
-**[Your Name]**
-[LinkedIn](https://
+**[Shodunke Feranmi]**
+
