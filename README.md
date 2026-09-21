@@ -75,9 +75,8 @@ Sales are growing, but profit is not keeping pace. Leadership needs to know whic
 - Prepare inventory and logistics for the September–December peak.
 ## 📸 Dashboard / Visualizations
  
-![Dashboard Overview](images/dashboard_overview.png)
-![Sales Trend by Month](images/sales_trend.png)
-![Sales by Category and State](images/category_state.png)
+![Dashboard Overview](https://github.com/Shodunke-Feranmi/Furniture-sales-excel-Project/blob/main/Furniture%20sales%20Dashboard.png)
+
  
 ## 📚 Skills Demonstrated
  
